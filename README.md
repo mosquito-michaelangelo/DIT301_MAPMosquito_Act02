@@ -1,4 +1,3 @@
-# DIT301_MAPMosquito_Act02
 ## What did you observe about the app lifecycle when switching between screens or minimizing the app?
 When I made the app with two screens, I saw that when I moved from Screen 1 to Screen 2, the first screen 
 stopped for a while and the next one started. When I minimized the app and opened it again, it went back to 
